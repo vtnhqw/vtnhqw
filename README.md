@@ -30,8 +30,7 @@
 
 ## 📊 GitHub Stats
 
-<!-- Copy-paste in your Readme.md file -->
-
+<!-- Contribution Time Distribution -->
 <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=263140037" target="_blank" style="display: block" align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=263140037&image_size=auto&color_scheme=dark" width="721" height="auto">
@@ -39,9 +38,13 @@
   </picture>
 </a>
 
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=vtnhqw&theme=tokyonight)](https://git.io/streak-stats)
+<!-- GitHub Streak -->
+<a href="https://git.io/streak-stats">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vtnhqw&theme=tokyonight">
+    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vtnhqw&theme=default">
+  </picture>
+</a>
 
 -----
 
