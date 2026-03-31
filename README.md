@@ -30,28 +30,38 @@
 
 ## 📊 GitHub Stats
 
->
 <!-- GitHub Streak -->
-<a href="https://git.io/streak-stats">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vtnhqw&theme=tokyonight">
-    <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vtnhqw&theme=default">
-  </picture>
-</a>
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=vtnhqw&theme=tokyonight&hide_border=true">
+      <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=vtnhqw&theme=default&hide_border=true" height="195">
+    </picture>
+  </a>
+</div>
 
-<!-- Language -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&theme=tokyonight">
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&theme=default">
-</picture>
+<br/>
 
-<!-- Contribution Time Distribution -->
-<a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=263140037" target="_blank" style="display: block" align="center">
+<!-- Top Language + Contribution Side by Side -->
+<div align="center">
+
+  <!-- Language -->
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=263140037&image_size=auto&color_scheme=dark" width="721" height="auto">
-    <img alt="Contribution Time Distribution of @vtnhqw" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=263140037&image_size=auto&color_scheme=light" width="721" height="auto">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&theme=tokyonight&hide_border=true&langs_count=8">
+    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&theme=default&hide_border=true&langs_count=8" height="195">
   </picture>
-</a
+
+  &nbsp;
+
+  <!-- Contribution Time Distribution -->
+  <a href="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution?period=all_times&user_id=263140037" target="_blank">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=263140037&image_size=auto&color_scheme=dark" height="195">
+      <img alt="Contribution Time Distribution of @vtnhqw" src="https://next.ossinsight.io/widgets/official/analyze-user-contribution-time-distribution/thumbnail.png?period=all_times&user_id=263140037&image_size=auto&color_scheme=light" height="195">
+    </picture>
+  </a>
+
+</div>
 -----
 
 > *"Every expert was once a beginner."* 🌱
