@@ -11,7 +11,7 @@
 
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-FF4500?style=flat&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMy4xMyA1LjE0QzExLjU0IDMuMTMgOS4zMSAyIDYuNSAyYzAgMi44MSAxLjEzIDUuMDQgMy4xNCA2LjYzTDYgMTJoMTJsLTMuNjQtMy42NC0xLjIzLTMuMjJ6TTEyIDEzLjVjLTEuMSAwLTIgLjktMiAycy45IDIgMiAyIDItLjkgMiAyLS45LTItMi0yem0tNS44NCA1LjM0QzYuNzMgMTkuNzMgNyAyMC44NCA3IDIyYzEuMTYgMCAyLjI3LS4yNyAzLjE2LS44NEwxMiAxOWwtMS44NC0uMTYtMyAtLjV6Ii8+PC9zdmc+&logoColor=white)
 
 -----
 
