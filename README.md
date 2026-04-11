@@ -11,7 +11,7 @@
 
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Antigravity](https://img.shields.io/badge/Antigravity-FF4500?style=flat&logoColor=white)
 
 -----
 
