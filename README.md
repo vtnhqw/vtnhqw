@@ -49,4 +49,4 @@
 
 -----
 
-> *"Every expert was once a beginner."* 🌱
+> *"Human powered by AI"* 🌱
