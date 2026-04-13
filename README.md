@@ -44,10 +44,8 @@
 
 <br/>
 
-<!-- Top Language + Contribution Side by Side -->
+
 <div align="center">
-
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffa500,100:ff4500&height=3&width=2500"/>
 
 
