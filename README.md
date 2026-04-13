@@ -50,6 +50,6 @@
 -----
 
 ## Language Used
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=vtnhqw&show_icons=true)
+![Repos per language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vtnhqw&theme=holi)
 
 > *"Human powered by AI"* 🌱
