@@ -28,7 +28,7 @@
 - 🌐 Exploring HTML & CSS basics
 - 🔨 Building small programs
 
------
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffa500,100:ff4500&height=5&width=2000"/>
 
 ## 📊 GitHub Stats
 
@@ -48,8 +48,7 @@
 <div align="center">
 
 
------
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffa500,100:ff4500&height=5&width=2000"/>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffb347,50:ff6600,100:ff3300&height=6&width=2000&animation=fadeIn"/>
+
 
 > *"Human powered by AI"* 🌱
