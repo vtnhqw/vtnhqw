@@ -49,6 +49,6 @@
 
 
 -----
-![neon divider](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
 
 > *"Human powered by AI"* 🌱
