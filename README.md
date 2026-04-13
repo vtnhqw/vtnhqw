@@ -28,7 +28,9 @@
 - 🌐 Exploring HTML & CSS basics
 - 🔨 Building small programs
 
+<div align="center">
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:ffa500,100:ff4500&height=5&width=2000"/>
+<div align="center">
 
 ## 📊 GitHub Stats
 
