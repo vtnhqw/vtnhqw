@@ -49,6 +49,6 @@
 
 
 -----
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=5"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=10"/>
 
 > *"Human powered by AI"* 🌱
