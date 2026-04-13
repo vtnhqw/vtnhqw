@@ -49,6 +49,6 @@
 
 
 -----
-
+![neon divider](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
 
 > *"Human powered by AI"* 🌱
