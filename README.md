@@ -50,6 +50,6 @@
 -----
 
 ## Language Used
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vtnhqw&layout=compact&theme=tokyonight)
 
 > *"Human powered by AI"* 🌱
