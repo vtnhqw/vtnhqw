@@ -1,6 +1,6 @@
 # Hi, I'm Hakimi 👋
 - 💻 Learning Programming
-- 🚀 Currently learning C++
+- 🚀 Currently learning Swift
 
 ## 💻 Languages
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
