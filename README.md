@@ -26,9 +26,7 @@
 -----
 
 ## 🚀 Current Projects
-- 📚 Learning Swift fundamentals
-- 🌐 Exploring HTML & CSS basics
-- 🔨 Building small programs
+- 🔨 Building small apps and systems
 
 ---
 
