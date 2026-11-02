@@ -13,15 +13,13 @@
 -----
 
 
-
-
 ## 🛠️ Tools
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
   &nbsp; Git &nbsp;&nbsp;
 
-  <img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" width="30" height="30" alt="Antigravity"/>
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="30" height="30" alt="Antigravity"/>
   &nbsp; Antigravity &nbsp;&nbsp;
 
   <img src="https://cdn.simpleicons.org/cursor/white" width="30" height="30" alt="Cursor"/>
@@ -33,6 +31,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="30" height="30" alt="Xcode"/>
   &nbsp; Xcode
 </p>
+
 
 
 
