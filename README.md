@@ -12,12 +12,14 @@
 
 -----
 
+
 ## 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat)
+<img src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/antigravity-google/default.svg" height="20" alt="Antigravity Logo"/> ![Antigravity](https://img.shields.io/badge/Antigravity-1A73E8?style=flat)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=flat&logo=cursor&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="20" alt="VS Code Logo"/> ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat)
 ![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=xcode&logoColor=white)
+
 
 
 -----
