@@ -15,22 +15,32 @@
 
 ## 🛠️ Tools
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="30" height="30" alt="Git"/>
-  &nbsp; Git &nbsp;&nbsp;
-
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="30" height="30" alt="Antigravity"/>
-  &nbsp; Antigravity &nbsp;&nbsp;
-
-  <img src="https://cdn.simpleicons.org/cursor/white" width="30" height="30" alt="Cursor"/>
-  &nbsp; Cursor &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="30" height="30" alt="VS Code"/>
-  &nbsp; VS Code &nbsp;&nbsp;
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="30" height="30" alt="Xcode"/>
-  &nbsp; Xcode
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git"/>
+        <br/>Git
+      </td>
+      <td align="center" width="100">
+        <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="42" height="42" alt="Antigravity"/>
+        <br/>Antigravity
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.simpleicons.org/cursor/white" width="42" height="42" alt="Cursor"/>
+        <br/>Cursor
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="42" height="42" alt="VS Code"/>
+        <br/>VS Code
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="42" height="42" alt="Xcode"/>
+        <br/>Xcode
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 
