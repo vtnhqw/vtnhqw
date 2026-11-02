@@ -9,13 +9,15 @@
 
 <br/>
 
-<a href="https://github.com/vtnhqw">
-  <img src="https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtnhqw)
 &nbsp;
-<a href="https://x.com/vtnhqw">
-  <img src="https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-</a>
+[![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vtnhqw)
+
+</div>
+
 
 </div>
 
