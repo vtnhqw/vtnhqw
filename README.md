@@ -61,10 +61,6 @@ and turning simple ideas into working applications.
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
 </p>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Swift_Playgrounds-202020?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift Playgrounds" title="Swift Playgrounds"/>
-</p>
-
 <br/>
 
 ---
