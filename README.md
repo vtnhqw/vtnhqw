@@ -9,7 +9,7 @@
 
 <br/>
 
-[![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vtnhqw)
+[![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
 
 </div>
 
