@@ -27,7 +27,9 @@ and turning simple ideas into working applications.
 
 <sub>Currently focused on</sub>
 
-`Swift` &nbsp; `iOS Development` &nbsp; `Software Engineering`
+
+`Swift` &nbsp; `iOS Development` &nbsp; `Software Engineering` &nbsp; `Artificial Intelligence` &nbsp; `Machine Learning`
+
 
 <br/>
 
