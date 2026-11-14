@@ -50,7 +50,7 @@ and turning simple ideas into working applications.
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,figma&theme=dark" alt="Git, VS Code, Supabase, Figma" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,figma&theme=dark" alt="Git, VS Code, Supabase, Figma"/>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
   &nbsp;
@@ -90,6 +90,29 @@ keep track of Islamic dates in one clean interface.
 <br/>
 
 [![Live Website](https://img.shields.io/badge/VIEW_LIVE_PROJECT-202020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vtnhqw.github.io/Qamar/)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+
+### 02 / TRADINGVIEW INDICATOR
+
+**Market insights, made visual.**
+
+An interactive technical analysis project
+focused on exploring trading indicators
+and market visualization.
+
+Experiment with charting concepts,
+indicator logic, and data-driven tools
+through a clean web interface.
+
+`Trading Indicators` · `Technical Analysis` · `Market Visualization`
+
+<br/>
+
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_PROJECT-202020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vtnhqw.github.io/TradingView-Indicator/)
 
 </td>
 </tr>
