@@ -40,7 +40,7 @@ and turning simple ideas into working applications.
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift,php,mysql&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift, PHP, SQL" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift,php,mysql&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift, PHP, MySQL" />
 </p>
 
 <br/>
@@ -54,9 +54,11 @@ and turning simple ideas into working applications.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
   &nbsp;
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook"/>
   &nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/white" width="48" height="48" alt="Cursor" title="Cursor"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
+  &nbsp;
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
 </p>
 
 <br/>
