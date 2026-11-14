@@ -45,7 +45,6 @@ and turning simple ideas into working applications.
 
 <br/>
 
-
 <sub>DEVELOPMENT TOOLS</sub>
 
 <br/>
@@ -57,17 +56,18 @@ and turning simple ideas into working applications.
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook"/>
   &nbsp;
-  <img src="./github-profile-assets/cursor-dark.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
   &nbsp;
   <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/swift-playgrounds.svg" width="48" height="48" alt="Swift Playgrounds" title="Swift Playgrounds"/>
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Swift_Playgrounds-202020?style=for-the-badge&logo=swift&logoColor=F05138" alt="Swift Playgrounds" title="Swift Playgrounds"/>
 </p>
 
 <br/>
 
 ---
-
 
 ### FEATURED PROJECTS
 
@@ -75,9 +75,29 @@ and turning simple ideas into working applications.
 
 <br/>
 
-<a href="https://vtnhqw.github.io/Qamar/">
-  <img src="./github-profile-assets/qamar-card.svg" width="100%" alt="Qamar — Islamic companion web project"/>
-</a>
+<table>
+<tr>
+<td width="100%">
+
+### 01 / QAMAR
+
+**Prayer times, beautifully simple.**
+
+A minimal Islamic companion designed to make
+everyday essentials easier to access.
+
+Explore prayer times, read the Quran, and
+keep track of Islamic dates in one clean interface.
+
+`Prayer Times` · `Quran` · `Islamic Calendar`
+
+<br/>
+
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_PROJECT-202020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vtnhqw.github.io/Qamar/)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -85,9 +105,44 @@ and turning simple ideas into working applications.
 
 ### CURRENTLY BUILDING
 
-<br/>
+<table>
+<tr>
+<td width="50%">
 
-<img src="./github-profile-assets/building-card.svg" width="100%" alt="Currently Building: Swift and iOS, Personal Projects, Fundamentals, Exploration"/>
+**01 / SWIFT & iOS**
+
+Learning Swift and exploring
+native Apple development.
+
+</td>
+<td width="50%">
+
+**02 / PERSONAL PROJECTS**
+
+Building small applications
+and practical systems.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**03 / FUNDAMENTALS**
+
+Strengthening my programming
+and problem-solving skills.
+
+</td>
+<td width="50%">
+
+**04 / EXPLORATION**
+
+Experimenting with developer
+tools and new technologies.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
