@@ -9,15 +9,9 @@
 
 <br/>
 
-
-<div align="center">
-
 [![GitHub](https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtnhqw)
 &nbsp;
 [![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vtnhqw)
-
-</div>
-
 
 </div>
 
@@ -47,11 +41,9 @@ and turning simple ideas into working applications.
 
 <br/>
 
-![C++](https://img.shields.io/badge/C++-202020?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-202020?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-202020?style=flat-square&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-202020?style=flat-square&logo=javascript&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-202020?style=flat-square&logo=swift&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift" />
+</p>
 
 <br/>
 
@@ -64,18 +56,16 @@ and turning simple ideas into working applications.
 <br/>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="34" height="34" alt="Git" title="Git"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="34" height="34" alt="Google Antigravity" title="Google Antigravity"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cursor/white" width="34" height="34" alt="Cursor" title="Cursor"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="34" height="34" alt="VS Code" title="VS Code"/>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="34" height="34" alt="Xcode" title="Xcode"/>
+  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Git and VS Code" />
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
+  &nbsp;
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
+  &nbsp;
+  <img src="https://cdn.simpleicons.org/cursor/white" width="48" height="48" alt="Cursor" title="Cursor"/>
 </p>
 
-<sub>Git &nbsp;·&nbsp; Antigravity &nbsp;·&nbsp; Cursor &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Xcode</sub>
+<sub>Git &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Xcode &nbsp;·&nbsp; Antigravity &nbsp;·&nbsp; Cursor</sub>
 
 <br/>
 
