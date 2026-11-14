@@ -9,8 +9,6 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GITHUB-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vtnhqw)
-&nbsp;
 [![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com/vtnhqw)
 
 </div>
@@ -42,21 +40,17 @@ and turning simple ideas into working applications.
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift,php,mysql&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift, PHP, SQL" />
 </p>
 
 <br/>
 
----
-
-### DEVELOPMENT ENVIRONMENT
-
-<sub>TOOLS & WORKFLOW</sub>
+<sub>DEVELOPMENT TOOLS</sub>
 
 <br/>
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode&theme=dark" alt="Git and VS Code" />
+  <img src="https://skillicons.dev/icons?i=git,vscode,supabase&theme=dark" alt="Git, VS Code, Supabase" />
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
   &nbsp;
@@ -64,8 +58,6 @@ and turning simple ideas into working applications.
   &nbsp;
   <img src="https://cdn.simpleicons.org/cursor/white" width="48" height="48" alt="Cursor" title="Cursor"/>
 </p>
-
-<sub>Git &nbsp;·&nbsp; VS Code &nbsp;·&nbsp; Xcode &nbsp;·&nbsp; Antigravity &nbsp;·&nbsp; Cursor</sub>
 
 <br/>
 
