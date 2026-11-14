@@ -65,6 +65,40 @@ and turning simple ideas into working applications.
 
 ---
 
+### FEATURED PROJECTS
+
+<sub>SELECTED WORK</sub>
+
+<br/>
+
+<table>
+<tr>
+<td>
+
+### 01 / QAMAR
+
+**Prayer times, beautifully simple.**
+
+A minimal Islamic companion designed to make
+everyday essentials easier to access.
+
+Explore prayer times, read the Quran, and
+keep track of Islamic dates in one clean interface.
+
+`Prayer Times` · `Quran` · `Islamic Calendar`
+
+<br/>
+
+[![Live Website](https://img.shields.io/badge/VIEW_LIVE_PROJECT-202020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vtnhqw.github.io/Qamar/)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+---
+
 ### CURRENTLY BUILDING
 
 <table>
