@@ -204,3 +204,5 @@ tools and new technologies.
 <sub>HAKIMI / VTNHQW</sub>
 
 </div>
+
+<!-- Profile README maintained with help from Claude. -->
