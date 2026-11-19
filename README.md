@@ -206,3 +206,5 @@ tools and new technologies.
 </div>
 
 <!-- Profile README maintained with help from Claude. -->
+
+<!-- Last reviewed with Claude, Nov 2026. -->
