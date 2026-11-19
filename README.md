@@ -1,4 +1,3 @@
-
 <div align="center">
 
 # HAKIMI
@@ -10,6 +9,8 @@
 <br/>
 
 [![X](https://img.shields.io/badge/TWITTER_/_X-181818?style=for-the-badge&logo=x&logoColor=white)](https://x.com)
+[![Projects](https://img.shields.io/badge/PROJECTS-181818?style=for-the-badge)](#featured-projects)
+[![Stack](https://img.shields.io/badge/TECH_STACK-181818?style=for-the-badge)](#tech-stack)
 
 </div>
 
@@ -19,49 +20,12 @@
 
 ### ABOUT ME
 
-I'm **Hakimi**, an aspiring developer currently
-focused on learning **Swift** and exploring iOS development.
+I'm **Hakimi**, an aspiring developer focused on learning **Swift** and exploring iOS development.
+I enjoy experimenting with new tools and turning simple ideas into working applications.
 
-I enjoy writing code, experimenting with new tools,
-and turning simple ideas into working applications.
-
-<sub>Currently focused on</sub>
-
+<sub>CURRENTLY FOCUSED ON</sub>
 
 `Swift` &nbsp; `iOS Development` &nbsp; `Software Engineering` &nbsp; `Artificial Intelligence` &nbsp; `Machine Learning`
-
-
-<br/>
-
----
-
-### TECH STACK
-
-<sub>LANGUAGES & TECHNOLOGIES</sub>
-
-<br/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift,php,mysql&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift, PHP, MySQL" />
-</p>
-
-<br/>
-
-<sub>DEVELOPMENT TOOLS</sub>
-
-<br/>
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,figma&theme=dark" alt="Git, VS Code, Supabase, Figma"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook"/>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
-  &nbsp;
-  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
-</p>
 
 <br/>
 
@@ -69,23 +33,15 @@ and turning simple ideas into working applications.
 
 ### FEATURED PROJECTS
 
-<sub>SELECTED WORK</sub>
-
-<br/>
-
 <table>
 <tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 01 / QAMAR
+#### 01 / QAMAR
 
 **Prayer times, beautifully simple.**
 
-A minimal Islamic companion designed to make
-everyday essentials easier to access.
-
-Explore prayer times, read the Quran, and
-keep track of Islamic dates in one clean interface.
+A minimal Islamic companion: prayer times, the Quran, and Islamic dates in one clean interface.
 
 `Prayer Times` · `Quran` · `Islamic Calendar`
 
@@ -94,21 +50,13 @@ keep track of Islamic dates in one clean interface.
 [![Live Website](https://img.shields.io/badge/VIEW_LIVE_PROJECT-202020?style=for-the-badge&logo=googlechrome&logoColor=white)](https://vtnhqw.github.io/Qamar/)
 
 </td>
-</tr>
-<tr>
-<td width="100%">
+<td width="50%" valign="top">
 
-### 02 / TRADINGVIEW INDICATOR
+#### 02 / TRADINGVIEW INDICATOR
 
 **Market insights, made visual.**
 
-An interactive technical analysis project
-focused on exploring trading indicators
-and market visualization.
-
-Experiment with charting concepts,
-indicator logic, and data-driven tools
-through a clean web interface.
+An interactive technical analysis project for exploring trading indicators and market visualization.
 
 `Trading Indicators` · `Technical Analysis` · `Market Visualization`
 
@@ -126,44 +74,33 @@ through a clean web interface.
 
 ### CURRENTLY BUILDING
 
-<table>
-<tr>
-<td width="50%">
+**Swift & iOS** &nbsp;·&nbsp; **Personal projects** &nbsp;·&nbsp; **Fundamentals** &nbsp;·&nbsp; **Exploring new tools**
 
-**01 / SWIFT & iOS**
+<br/>
 
-Learning Swift and exploring
-native Apple development.
+---
 
-</td>
-<td width="50%">
+### TECH STACK
 
-**02 / PERSONAL PROJECTS**
+<sub>LANGUAGES</sub>
 
-Building small applications
-and practical systems.
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,js,swift,php,mysql&theme=dark&perline=10" alt="C++, Python, HTML, JavaScript, Swift, PHP, MySQL" />
+</p>
 
-</td>
-</tr>
-<tr>
-<td width="50%">
+<sub>DEVELOPMENT TOOLS</sub>
 
-**03 / FUNDAMENTALS**
-
-Strengthening my programming
-and problem-solving skills.
-
-</td>
-<td width="50%">
-
-**04 / EXPLORATION**
-
-Experimenting with developer
-tools and new technologies.
-
-</td>
-</tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,vscode,supabase,figma&theme=dark" alt="Git, VS Code, Supabase, Figma"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" width="48" height="48" alt="Xcode" title="Xcode"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter Notebook" title="Jupyter Notebook"/>
+  &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cursor/cursor-original.svg" width="48" height="48" alt="Cursor" title="Cursor"/>
+  &nbsp;
+  <img src="https://antigravity.google/assets/image/brand/antigravity-icon__full-color.png" width="48" height="48" alt="Google Antigravity" title="Google Antigravity"/>
+</p>
 
 <br/>
 
@@ -204,5 +141,3 @@ tools and new technologies.
 <sub>HAKIMI / VTNHQW</sub>
 
 </div>
-
-<!-- Profile README maintained with help from Claude. -->
